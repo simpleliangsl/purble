@@ -1,0 +1,19 @@
+{
+  "name": "purble",
+  "version": "1.0.0",
+  "description": "Put your actions on table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpleliangsl/purble.git"
+  },
+  "author": "Simple Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simpleliangsl/purble/issues"
+  },
+  "homepage": "https://github.com/simpleliangsl/purble#readme"
+}
