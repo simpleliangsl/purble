@@ -1,5 +1,5 @@
 # purble
-**Pu**t you**r** actions on ta**ble**!
+🟪 **Pu**t you**r** actions on ta**ble**!
 
 Purble is a language in which sentences are formalized as `Result` + `Action` + `Arguments`. So you can easily list your actions into a table one by one. It looks clearer and more straightforward comparing with the lines of text code. Writing short scripts can be so free!
 
